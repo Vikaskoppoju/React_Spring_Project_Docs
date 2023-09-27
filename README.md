@@ -5,8 +5,8 @@
 1. Command to install react app is:
 
 ```
-npx create-react-app my-app
-cd my-app
+npx create-react-app Portal
+cd Portal
 npm start
 ```
 > Here we are using mui website for ui components so we need to install some packages
